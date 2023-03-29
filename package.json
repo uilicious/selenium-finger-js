@@ -1,0 +1,28 @@
+{
+  "name": "selenium-finger",
+  "version": "1.0.0",
+  "description": "The Finger is a library that provides an alternative implementation to click on page elements using selenium.",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "keywords": [
+    "selenium",
+    "selenium-js",
+    "selenium-javascript",
+    "webdriver",
+    "click"
+  ],
+  "author": "Tai Shi Ling",
+  "license": "MIT",
+  "peerDependencies": {
+    "selenium-webdriver": "^4.8.1"
+  },
+  "devDependencies": {
+    "@types/selenium-webdriver": "^4.1.13"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uilicious/selenium-finger-js"
+  }
+}
